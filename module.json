@@ -1,0 +1,12 @@
+{
+    "name": "FeaturedProductGeneral",
+    "alias": "featuredproductgeneral",
+    "description": "Featured products selection for homepage and widgets",
+    "keywords": ["featured", "products", "homepage"],
+    "priority": 0,
+    "providers": [
+        "Modules\\FeaturedProductGeneral\\Providers\\FeaturedProductGeneralServiceProvider"
+    ],
+    "files": [],
+    "type": "general"
+}
